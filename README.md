@@ -1,6 +1,7 @@
 # rwsplots
 
 Author: Robert W. Schmidt
+
 E-mail: rschmidthd at gmail.com
 
 This repository contains code used to generate plots in my papers.
