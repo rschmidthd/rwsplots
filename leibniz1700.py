@@ -54,7 +54,7 @@ def read_moons(file, delta=0):
     return res
 
 
-# luna 14 marjers are plotted according to the dates in 'luna14'
+# luna 14 markers are plotted according to the dates in 'luna14'
 def plot_boxes(ax,luna14,hatch='///'):
     # plot luna 14
     for gn in range(1,20):
