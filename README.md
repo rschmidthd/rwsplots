@@ -10,7 +10,7 @@ The jupyter files will produce the plots:
 
 talk_hannover.ipynb:
 
-from the paper "The improved calendar of 1700 and the interplay with astronomy", submitted to Studia Leibnitiana
+for the paper "The improved calendar of 1700 and the interplay with astronomy", submitted to Studia Leibnitiana
 (editors: K.-D. Herbst, N. Gädeke)
 
 * Gregorian lunar calendar
