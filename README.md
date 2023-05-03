@@ -9,6 +9,10 @@ This repository contains code used to generate plots in my papers.
 The jupyter files will produce the plots:
 
 talk_hannover.ipynb:
+
+from the paper "The improved calendar of 1700 and the interplay with astromony", submitted to Studia Leibnitiana
+(K.-D. Herbst, N. Gädeke, editors)
+
 * Gregorian lunar calendar
 * computation of lunar months
 * diagram for the celestial sphere
