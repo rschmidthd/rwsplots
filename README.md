@@ -18,3 +18,7 @@ for the paper "The improved calendar of 1700 and the interplay with astronomy", 
 * diagram for the celestial sphere
 * diagram for the Kepler orbit and the equation of the centre
 * comparison equation of centre: Kepler vs modern values
+
+epact_wheel.ipynb:
+
+* creates a diy model of the Gregorian calendar for the next 900000 years.
